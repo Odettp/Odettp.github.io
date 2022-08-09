@@ -56,3 +56,6 @@ footer {
   background-image: url('../img/programacion.jpeg');
   margin-bottom: 20px;
 }
+.description-photo {
+  width: 100%;
+}
